@@ -33,7 +33,7 @@ function listStudents() {
         //Append each subject and its enrolled students to the list
     }
 
-    alert(list); // Display the final list of enrolled students
+    alert(list); //Display the final list of enrolled students
 }
 
 //Function to remove a student from a subject
